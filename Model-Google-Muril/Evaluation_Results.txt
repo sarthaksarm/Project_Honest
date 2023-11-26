@@ -1,0 +1,10 @@
+Muril-base-IMDB:
+Original model Evaluation - 0.011
+After Prompt-based fine tuning, evaluation - 0.022
+After Dataset-based fine tuning, evaluation - 0.011
+
+
+Muril-base-CNN_Dailymail:
+Original model Evaluation - 0.011
+After Prompt-based fine tuning, evaluation - 0.000
+After Dataset-based fine tuning, evaluation - 0.0096

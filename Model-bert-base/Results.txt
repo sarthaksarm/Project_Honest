@@ -1,0 +1,10 @@
+Bert-Base link-IMDB:
+Original model Evaluation - 0.00138
+After prompt-based fine tuning, evaluation - 0.0359
+After Dataset-based fine tuning, evaluation - 0.00828
+
+
+Bert-Base link-cnn_dailymail:
+Original model Evaluation - 0.00138
+After prompt-based fine tuning, evaluation - 0.0013
+After Dataset-based fine tuning, evaluation - 0.00414
