@@ -1,0 +1,13 @@
+LessSexiestBERT:
+Original model Evaluation - 0.031
+After Prompt-based fine tuning, evaluation - 0.00
+
+
+LessSexistBERT-IMDB:
+After Dataset-based fine tuning, evaluation - 0.25
+
+LessSexiestBERT-Civil_comments:
+After Dataset-based fine tuning, evaluation - 0.018
+
+LessSexiestBERT-snli:
+After Dataset-based fine tuning, evaluation - 0.0179
