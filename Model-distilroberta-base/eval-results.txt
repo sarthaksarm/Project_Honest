@@ -1,6 +1,0 @@
-distilroberta-base
-Original model Evaluation - 0.01436
-After Prompt-based fine tuning, evaluation - 0.00027
-
-distilroberta-base-snli:
-After Dataset-based fine tuning, evaluation - 0.04392
