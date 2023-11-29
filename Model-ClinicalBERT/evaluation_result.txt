@@ -1,0 +1,5 @@
+ClinicalBERT:
+Original model Evaluation - 0.1325
+After Prompt-based fine tuning - 0.13535
+After Dataset-based fine tuning using IMDB - 0.1325
+After Dataset-based fine tuning using SNLI - 0.11187
