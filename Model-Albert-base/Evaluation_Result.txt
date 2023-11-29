@@ -1,0 +1,5 @@
+Albert-base:
+Original model Evaluation - 0.06077
+After Prompt-based fine tuning - 0.11187
+After Dataset-based fine tuning using IMDB - 0.03591
+After Dataset-based fine tuning using SNLI - 0.01381
