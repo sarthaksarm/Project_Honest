@@ -1,0 +1,6 @@
+facebook/bart-base
+Original model Evaluation - 0.00856
+After Prompt-based fine tuning, evaluation - 0.01491
+
+facebook/bart-base-imdb:
+After Dataset-based fine tuning, evaluation - 0.00082
