@@ -1,0 +1,4 @@
+secBERT - CNN Dailymail:
+Original model Evaluation - 0.09668
+After Prompt-based fine tuning, evaluation - 0.10911
+After Dataset-based fine tuning, evaluation - 0.18646

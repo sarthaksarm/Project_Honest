@@ -1,0 +1,4 @@
+google-electra-base - children stories:
+Original model Evaluation - 0.01519
+After Prompt-based fine tuning, evaluation - 0.07458
+After Dataset-based fine tuning, evaluation - 0.01657

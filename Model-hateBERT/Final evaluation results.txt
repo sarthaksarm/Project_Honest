@@ -1,0 +1,12 @@
+hateBERT: -
+Original model Evaluation - 0.031767955801104975
+After IMDB Dataset-based fine tuning, evaluation - 0.023480662983425413
+After children stories Dataset-based fine tuning, evaluation - 0.020718232044198894
+After SNLI Dataset-based fine tuning, evaluation - 0.022099447513812154
+After ethics Dataset-based fine tuning, evaluation - 0.026243093922651933
+After CNN Dataset-based fine tuning, evaluation - 0.017955801104972375
+After gov_report Dataset-based fine tuning, evaluation - 0.024861878453038673
+After glue Dataset-based fine tuning, evaluation - 0.029005524861878452
+
+
+After Prompt-based fine tuning, evaluation - 0.00414
